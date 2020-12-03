@@ -12,3 +12,22 @@ If the number is not any of the above,  then the results will be "Bar"
 we iterate over using a loop three times and print the results to the user. As an example "Plum Cherries"
 """
 
+"""
+num= generate random number
+
+if num is greater than 15
+    then the result will be "Cherries"
+otherwise if num > 10
+    then the result will be "Orange"
+otherwise if num > 5
+    then the result will be "Plum"
+otherwise if num > 2
+    then the result will be "Melon"
+otherwise if num > 1
+    then the result will be "Bell"
+ otherwise 
+    then the result will be "Bar"
+
+loop three times
+    print the output (fruit) to the user
+    """
